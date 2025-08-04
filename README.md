@@ -1,6 +1,6 @@
 # 🔌 Übung 9: I²C – LCD & Farbsensor
 
-Dieses Projekt gehört zur Praktikumsreihe im Fach **Mikroprozessortechnik** (Sommersemester 2025). Ziel dieses Versuchs ist das Verständnis und die praktische Anwendung des **I²C-Busses** zur Kommunikation zwischen einem Mikrocontroller, einem LCD-Display und einem Farbsensor.
+Dieses Projekt gehört zur Praktikumsreihe im Fach **Mikroprozessortechnik** . Ziel dieses Versuchs ist das Verständnis und die praktische Anwendung des **I²C-Busses** zur Kommunikation zwischen einem Mikrocontroller, einem LCD-Display und einem Farbsensor.
 
 ---
 
