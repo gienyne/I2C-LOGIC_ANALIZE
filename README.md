@@ -65,7 +65,7 @@ Prüfen Sie die I²C-Kommunikation mithilfe eines **Logic Analyzers** (z. B. S
 
 ## 🔌 Aufbau: LCD & Farbsensor
 
-![Versuchsaufbau](image/versuchsaufbau.jpgg)
+![Versuchsaufbau](image/versuchsaufbau.jpg)
 
 - LCD-Display über I²C angebunden
 - Farbsensor per I²C verbunden
